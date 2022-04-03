@@ -6,3 +6,4 @@ In the auction most of the foreign players are from Australia.
 The youngest player in the auction is Noor Ahmed from Afghanistan and he is sold to Gujarat Titans at price 30L.
 The oldest player in the auction is Imran Tahir from South Africa and he is unsold.
 The most old sold player is Bravo.
+This type of interesting insights related to IPL are in this repository.
